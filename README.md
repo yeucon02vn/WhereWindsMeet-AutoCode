@@ -4,6 +4,8 @@ AutoHotkey v2 tool to auto-redeem a list of _Where Winds Meet_ gift codes via 3 
 
 [![AutoHotkey v2](https://img.shields.io/badge/AutoHotkey-v2-blue)](https://www.autohotkey.com/)
 
+🎬 Video Guide: [How to use WhereWindsMeet-AutoCode](https://www.youtube.com/watch?v=EMZKfgAHP5k)
+
 ![WhereWindsMeet-AutoCode GUI](assets/WhereWindsMeet-AutoCode.png)
 
 > Fresh start — Code List empty, P1/P2/P3 `Not set`. Set points with F1/F2/F3, they persist in `WWM_AutoCode.ini`.
